@@ -2,6 +2,7 @@ Setting up Node.js and NPM using NVM
 Step 1: Install Node.js and NPM with NVM
 
 1.Install Node Version Manager (NVM) by running the following command:
+
 sudo su -
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 
