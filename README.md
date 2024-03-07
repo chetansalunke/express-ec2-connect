@@ -1,8 +1,4 @@
 
-A brief description of what this project does and who it's for
-
-
-
 ## Step 1: Install Node.js and NPM with NVM
 
 1.Install Node Version Manager (NVM) by running the following command:
