@@ -1,6 +1,5 @@
 # Simple way to deploy express to the ec2(aws)
 ## Step 1: Install Node.js and NPM with NVM
-
 1.Install Node Version Manager (NVM) by running the following command:
 
 ```bash
