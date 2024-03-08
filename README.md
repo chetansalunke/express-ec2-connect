@@ -5,7 +5,6 @@
 
 ```bash
 sudo apt-get install curl
-
 ```
 
 2.Download and execute a script from the NotordeSource reposiy by running the following command:
