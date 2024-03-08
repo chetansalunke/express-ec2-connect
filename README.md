@@ -3,9 +3,7 @@
 1.Install Node Version Manager (NVM) by running the following command:
 
 ```bash
-sudo su -
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
-
+sudo curl -fsSL https://deb.nodesource.com/setup_21.x | sudo -E bash
 ```
 
 
