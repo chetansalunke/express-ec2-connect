@@ -4,4 +4,4 @@ const app = express();
 
 app.listen(5001,()=> console.log("Api running on port  5001"));
 
-app.get('/',(req,res)=> res.json('My Running Api !!!'));
+app.get('/',(req,res)=> res.json('Server is live!!!'));
